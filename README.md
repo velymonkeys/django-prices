@@ -1,3 +1,9 @@
+django-prices 1.0.4 supports django 4.x
+====================================
+```shell
+pip install git+https://github.com/velymonkeys/django-prices.git@1.0.4.1
+```
+
 django-prices: Django fields for the `prices` module
 ====================================================
 
